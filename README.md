@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **reactjs**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **bug bounty**
 
 - 🤝 I’m looking to collaborate on **react project.**
 
 - 👨‍💻 All of my projects are available at [kirti.me](kirti.me)
 
-- 💬 Ask me about **cybersecurity , reactjs frontend projects etc.**
+- 💬 Ask me about **cybersecurity , reactjs ,python etc.**
 
 - 📫 How to reach me **rootxkirti@gmail.com**
 
