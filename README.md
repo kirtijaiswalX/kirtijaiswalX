@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to collaborate on **react project.**
 
-- 👨‍💻 All of my projects are available at [kirti.me](kirti.me)
+- 👨‍💻 All of my projects are available at [kirtijaiswal.me](kirtijaiswal.me)
 
 - 💬 Ask me about **cybersecurity , reactjs ,python etc.**
 
